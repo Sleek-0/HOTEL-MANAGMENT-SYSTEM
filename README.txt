@@ -3,8 +3,9 @@ JAVA PROJECT
 
 HOW TO RUN:
 
-TYPE :  java MainProject.java 
+DOWNLOAD EVERYTHING AS A ZIP FILE
 
+TYPE :  java MainProject.java 
 in terminal 
 
 OR RUN  MainProject.java USING AN IDE
