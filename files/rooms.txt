@@ -1,0 +1,147 @@
+Rooms Details
+90
+Floor 1
+Double
+1234
+Not Booked
+
+Rooms Details
+112
+Floor 1
+Double
+123
+Not Booked
+
+Rooms Details
+113
+Floor 3
+Double
+55
+Booked
+
+Rooms Details
+111
+Floor 2
+Double
+123
+Not Booked
+
+Rooms Details
+114
+Floor 2
+Single
+455
+Not Booked
+
+Rooms Details
+115
+Floor 2
+Double
+1555
+Not Booked
+
+Rooms Details
+116
+Floor 2
+Single
+144
+Not Booked
+
+Rooms Details
+100
+Floor 3
+Double
+900
+Not Booked
+
+Rooms Details
+101
+Floor 3
+Single
+800
+Not Booked
+
+Rooms Details
+91
+Floor 1
+Double
+200
+Not Booked
+
+Rooms Details
+92
+Floor 1
+Single
+200
+Not Booked
+
+Rooms Details
+93
+Floor 1
+Single
+200
+Booked
+
+Rooms Details
+94
+Floor 1
+Double
+400
+Not Booked
+
+Rooms Details
+95
+Floor 1
+Double
+404
+Booked
+
+Rooms Details
+103
+Floor 1
+Double
+405
+Not Booked
+
+Rooms Details
+104
+Floor 1
+Double
+400
+Not Booked
+
+Rooms Details
+122
+Floor 3
+Double
+122
+Not Booked
+
+Rooms Details
+125
+Floor 1
+Single
+544
+Booked
+
+Rooms Details
+244
+Floor 3
+Single
+234
+Not Booked
+
+Rooms Details
+134
+Floor 2
+Single
+1234
+Not Booked
+
+Rooms Details
+126
+Floor 3
+Single
+150
+Not Booked
+
