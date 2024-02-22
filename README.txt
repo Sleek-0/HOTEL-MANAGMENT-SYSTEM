@@ -1,4 +1,4 @@
-JAVA PROJECT
+JAVA PROJECT using JSwing
 
 
 HOW TO RUN:
